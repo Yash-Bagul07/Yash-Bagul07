@@ -1,5 +1,5 @@
 # 💫 About Me:
-I build full-stack MERN applications with clean APIs, authentication, and real-world<br>deployment. Currently sharpening my backend architecture and scalable database skills.<br>Open to collaborating on impactful web projects — ask me about React, Express, <br>MongoDB, or debugging (my favorite kind of puzzle). 🚀
+I build full-stack MERN applications with clean APIs, authentication, and real-world<br>deployment. Currently sharpening my backend architecture and scalable database skills.<br>Open to collaborating on impactful web projects - ask me about React, Express, <br>MongoDB, or debugging (my favorite kind of puzzle). 🚀
 
 
 ## 🌐 Socials:
